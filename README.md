@@ -1,4 +1,4 @@
-ecomFrontEnd
+ecomFrontEnd.
 ecomFrontEnd Clone Website using HTML/CSS/JS.
 
 Landing Page
